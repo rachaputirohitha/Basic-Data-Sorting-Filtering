@@ -166,14 +166,17 @@ The following formula was used:
 # Region-Based Formulas:
 West Sales:
 =SUMIF(G2:G9995,"West",J2:J9995)
+
 West Profit:
 =SUMIF(G2:G9995,"West",M2:M9995)
 
 # Segment-Based Formulas:
 Consumer Sales:
 =SUMIF(B2:B9995,"Consumer",J2:J9995)
+
 Corporate Sales:
 =SUMIF(B2:B9995,"Corporate",J2:J9995)
+
 Home Office Sales:
 =SUMIF(B2:B9995,"Home Office",J2:J9995)
 
