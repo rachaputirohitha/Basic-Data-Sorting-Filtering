@@ -163,14 +163,14 @@ The following formula was used:
 15. Office Supplies Profit:
 =SUMIF(H2:H9995,"Office Supplies",M2:M9995)
 
-# Region-Based Formulas:
+## Region-Based Formulas:
 West Sales:
 =SUMIF(G2:G9995,"West",J2:J9995)
 
 West Profit:
 =SUMIF(G2:G9995,"West",M2:M9995)
 
-# Segment-Based Formulas:
+## Segment-Based Formulas:
 Consumer Sales:
 =SUMIF(B2:B9995,"Consumer",J2:J9995)
 
@@ -180,6 +180,6 @@ Corporate Sales:
 Home Office Sales:
 =SUMIF(B2:B9995,"Home Office",J2:J9995)
 
- # Sub-Category Formula
+ ## Sub-Category Formula
 Phones Sales:
 =SUMIF(I2:I9995,"Phones",J2:J9995)
